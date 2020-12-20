@@ -1,3 +1,5 @@
+GroceryMart is a web-based grocery store.
+
 ## How to build js main-file with React components in
 1) Open project in IntelliJ and start the Tomcat server (run Tomcat)
 2) Open terminal, in terminal in project root folder 
